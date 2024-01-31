@@ -1,3 +1,4 @@
+-----------------------------------
 Scraping currency in Python using request module.
 The goal of this project is to improve our skills in Python by working on examples that may be needed in life.
 
