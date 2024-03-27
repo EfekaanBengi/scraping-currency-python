@@ -10,7 +10,7 @@ This program sends a request every 60 minutes
 
 
 ------------------------------------
-Pyhtonda requests and BeautifulSoup modülü kullanarak döviz değerlerini alma.
+Pyhtonda requests ve BeautifulSoup modülü kullanarak döviz değerlerini alma.
 ------------------------------------
 Bu projenin amacı pythondaki yeteneklerimizi hayatta lazım olabilecek örnekler üzerinde çalışarak geliştirmektir.
 
