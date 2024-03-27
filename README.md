@@ -1,5 +1,5 @@
 -----------------------------------
-Scraping currency in Python using request module.
+Scraping currency in Python using request and bs4 module.
 The goal of this project is to improve our skills in Python by working on examples that may be needed in life.
 
 Firstly you should download BeautifulSoup and requests modules.
@@ -15,3 +15,4 @@ Bu projenin amacı pythondaki yeteneklerimizi hayatta lazım olabilecek örnekle
 Daha sonra kod çalışacaktır.
 
 Bu program her 60 dakikada bir istek gönderir.
+-------------------------------------
